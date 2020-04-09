@@ -128,5 +128,6 @@ namespace FanQer
             this.timerClose.Enabled = false;
             this.radioClose.Checked = true;
         }
+
     }
 }
