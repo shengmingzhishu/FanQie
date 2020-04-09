@@ -1,6 +1,9 @@
 # FanQie
 番茄工作法定时软件
 
+
+<img src="https://github.com/shengmingzhishu/FanQie/blob/master/main.png?raw=true" alt="ubuntu-notification" width="300"/>
+
 此工程为源码，直接使用请下载(右键另存为)源码中“番茄定时V0.0.1.zip” ，解压即用
 
 双击启动：番茄定时.exe
