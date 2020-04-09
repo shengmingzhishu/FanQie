@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\FanQer\FanQer\obj\Debug\FanQer.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\FanQer\FanQer\obj\Debug\FanQer.Properties.Resources.resources
+C:\Users\Administrator\source\repos\FanQer\FanQer\obj\Debug\FanQer.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\FanQer\FanQer\obj\Debug\FanQer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FanQer\FanQer\bin\Debug\FanQer.exe.config
+C:\Users\Administrator\source\repos\FanQer\FanQer\bin\Debug\FanQer.exe
+C:\Users\Administrator\source\repos\FanQer\FanQer\bin\Debug\FanQer.pdb
+C:\Users\Administrator\source\repos\FanQer\FanQer\obj\Debug\FanQer.exe
+C:\Users\Administrator\source\repos\FanQer\FanQer\obj\Debug\FanQer.pdb
+C:\Users\Administrator\source\repos\FanQer\FanQer\obj\Debug\FanQer.FanQie.resources
